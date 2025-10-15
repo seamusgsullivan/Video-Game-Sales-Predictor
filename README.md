@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-The capstone project for INST414 by Seamus Sullivan.
+The capstone project for INST414 by Seamus Sullivan. (OLD REPOSITORY - NOT USED)
 
 ## Project Organization
 
